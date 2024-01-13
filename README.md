@@ -1,5 +1,5 @@
 <div align="center">
-<h2>🎯 Frontend Mentor - Stats preview card component solution </h2>
+<h2>🎯 Frontend Mentor - Social proof section solution </h2>
 </div>
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
