@@ -72,7 +72,7 @@ body {
   font-weight: 700;
   border-radius: 0.25rem;
   line-height: normal;
-  box-shadow: 1px 1px 1px 1px rgba(80, 32, 80, 0.5);
+  box-shadow: 1px 1px 1px 1px rgba(80, 32, 80, 0.2);
 }
 
 .rating__icon {
