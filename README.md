@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL - Github: [Add solution URL here](https://github.com/alexguemar/frontendmentor-profile-card)
-- Live Site URL - Vercel: [Add live site URL here](https://frontendmentor-profile-card-beige.vercel.app/)
+- Solution URL - Github: [Add solution URL here](hhttps://github.com/alexguemar/frontendmentor-social-proof-section)
+- Live Site URL - Vercel: [Add live site URL here](https://frontendmentor-social-proof-section-iota.vercel.app/)
 
 ## 🚀 My process
 
